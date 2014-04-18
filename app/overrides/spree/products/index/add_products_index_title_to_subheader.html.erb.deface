@@ -1,4 +1,0 @@
-<!-- insert_before 'erb:contains("content_for :sidebar do")' -->
-<% content_for :subheader do %>
-  <h1 class="page-title">商店</h1>
-<% end %>
